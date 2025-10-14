@@ -17,11 +17,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahimarani866&show_icons=true&theme=react-dark&count_private=true" alt="stats" />
+  <img src="https://img.shields.io/badge/Commits-100+-blue?style=for-the-badge&logo=github" alt="commits" />
+  <img src="https://img.shields.io/badge/Repositories-5+-green?style=for-the-badge&logo=github" alt="repos" />
+  <img src="https://img.shields.io/badge/Stars-0-red?style=for-the-badge&logo=github" alt="stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimarani866&layout=compact&theme=react-dark" alt="languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="powerbi" />
 </p>
 
 ---
