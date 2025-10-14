@@ -60,12 +60,14 @@ Looking for someone who builds *useful* data tools — not just pretty charts?
 
 ---
 
-### 📅 GitHub Streak
+### 📅 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimarani866&theme=react-dark&hide_border=false" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimarani866&theme=react-dark&radius=8&area=true&hide_border=true" alt="activity graph" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/mahimarani866?style=for-the-badge&logo=github&color=blue" alt="commits" />
+</p>
 ---
 
 ## 🐍 Feeding my Pet
