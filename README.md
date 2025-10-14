@@ -42,7 +42,6 @@ Sri Chaitanya PU College | 2021–2022 | 80.64%
 - Udemy – Advanced Excel
 
 ---
-
 ### 📬 Connect
 
 [LinkedIn](https://www.linkedin.com/in/m-mahima-rani) | [Email](mailto:m.mahimarani866@gmail.com)
