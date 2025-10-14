@@ -2,8 +2,8 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily
-  workflow_dispatch: # lets you run manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,6 +17,7 @@ jobs:
           github_user_name: mahimarani866
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
