@@ -37,6 +37,7 @@ I build tools that turn numbers into decisions — not just charts.
 
 ---
 
+
 ### 💬 Reach Out? I’d Love To.
 
 Let’s chat about data, dashboards, or even just coffee.  
@@ -52,10 +53,31 @@ Looking for someone who builds *useful* data tools — not just pretty charts?
 
 ---
 
-### 🟢 Currently Open to Work
+### 🟡 Currently Open to Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-green?style=for-the-badge&logo=github" alt="open to work" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-yellow?style=for-the-badge&logo=github" alt="open to work" />
+</p>
+
+---
+
+### 📊 Skills Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-blue?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/SQL-85%25-blue?style=flat-square&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Power%20BI-80%25-blue?style=flat-square&logo=powerbi&logoColor=white" alt="powerbi" />
+  <img src="https://img.shields.io/badge/Pandas-75%25-blue?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Excel-95%25-blue?style=flat-square&logo=microsoftexcel&logoColor=white" alt="excel" />
+</p>
+
+---
+
+### ⭐ GitHub Stars & Forks
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/mahimarani866?style=for-the-badge&logo=github&color=blue" alt="stars" />
+  <img src="https://img.shields.io/github/forks/mahimarani866?style=for-the-badge&logo=github&color=green" alt="forks" />
 </p>
 
 ---
@@ -65,9 +87,7 @@ Looking for someone who builds *useful* data tools — not just pretty charts?
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimarani866&theme=react-dark&radius=8&area=true&hide_border=true" alt="activity graph" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/mahimarani866?style=for-the-badge&logo=github&color=blue" alt="commits" />
-</p>
+
 ---
 
 ## 🐍 Feeding my Pet
@@ -80,6 +100,3 @@ Looking for someone who builds *useful* data tools — not just pretty charts?
 </p>
 
 ---
-
-> 🤖 *“If the data doesn’t tell a story, I’ll write one for it — even if it means debugging at 2 AM.”*  
-> — Me, probably while laughing at my own code 😄
