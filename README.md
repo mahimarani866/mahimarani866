@@ -37,26 +37,6 @@ I build tools that turn numbers into decisions — not just charts.
 
 ---
 
-### 📈 Projects That Matter to Me
-
-- **Sales Forecasting Dashboard**  
-  → Built with Python + Power BI → ~90% accuracy → [View Project](#)
-
-- **Healthcare Patient Flow Tracker**  
-  → Visualized wait times & bottlenecks → Used DAX/KPIs → [View Project](#)
-
-- **CLI Games & Calculator**  
-  → Rock-Paper-Scissors, function-based calculator → Practice for input validation & loops → [View Code](#)
-
----
-
-### 🎓 Where I’m Learning
-
-**BE, Computer Science** — Rao Bahadur Y. Mahabaleswarappa Engineering College  
-*Still learning. Still building. Always curious.*
-
----
-
 ### 💬 Reach Out? I’d Love To.
 
 Let’s chat about data, dashboards, or even just coffee.  
