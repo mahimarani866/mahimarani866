@@ -5,45 +5,19 @@
 
 ---
 
+### 🔍 What I Do
+
+I turn raw data into clear insights using **Python**, **Power BI**, and **Generative AI** to solve real-world business problems.
+
+---
+
 ### 🛠 Skills
 
-SQL | Python | MS Excel | Power BI | NumPy | Pandas | Machine Learning | Gen AI | Data Cleaning
+SQL | Python | Power BI | Pandas | NumPy | Machine Learning | Data Cleaning | DAX | Excel
 
 ---
 
-### 🚀 Projects
-
-- **Sales Forecasting Dashboard (Power BI + Python)**  
-  Built end-to-end solution enabling 90% accurate revenue forecasting.
-
-- **Healthcare Patient Flow Analytics (Power BI)**  
-  Designed dashboard tracking occupancy, wait times & KPIs for hospital efficiency.
-
-- **Rock Paper Scissors & Calculator (Python)**  
-  Beginner-friendly CLI projects demonstrating logic, input handling & error checks.
-
----
-
-### 🎓 Education
-
-**BE, Computer Science**  
-Rao Bahadur Y. Mahabaleswarappa Engineering College | 2022–2026 | CGPA: 7.61
-
-**PUC**  
-Sri Chaitanya PU College | 2021–2022 | 80.64%
-
----
-
-### 📜 Certifications
-
-- Deloitte – Analytics Simulation  
-- IBM – Data Analysis with Python  
-- HackerRank – Software Engineering & SQL Intermediate  
-- Udemy – Advanced Excel
-
----
-
-### 📬 Connect
+### 📬 Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/m-mahima-rani) | [Email](mailto:m.mahimarani866@gmail.com)
 
@@ -51,4 +25,13 @@ Sri Chaitanya PU College | 2021–2022 | 80.64%
 
 ## 🐍 Feeding my Pet
 
-<img src="https://raw.githubusercontent.com/mahimarani866/mahimarani866/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahimarani866/mahimarani866/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/mahimarani866/mahimarani866/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+> 💬 *Curious about data? Want to collaborate or just say hi? Reach me anytime — I’m always open to new ideas.*
